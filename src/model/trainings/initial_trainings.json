@@ -1,0 +1,70 @@
+[
+  {
+    "id": "1",
+    "name": "Тренировка для начинающих",
+    "exercises": [
+      {
+        "trainingId": "1",
+        "goal": 15,
+        "quantity": 3
+      },
+      {
+        "trainingId": "3",
+        "goal": 30,
+        "quantity": 2
+      },
+      {
+        "trainingId": "4",
+        "goal": 12,
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Интенсивная тренировка",
+    "exercises": [
+      {
+        "trainingId": "2",
+        "goal": 10,
+        "quantity": 3
+      },
+      {
+        "trainingId": "5",
+        "goal": 20,
+        "quantity": 4
+      },
+      {
+        "trainingId": "1",
+        "goal": 25,
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Тренировка верхней части тела",
+    "exercises": [
+      {
+        "trainingId": "2",
+        "goal": 8,
+        "quantity": 4
+      },
+      {
+        "trainingId": "4",
+        "goal": 15,
+        "quantity": 3
+      },
+      {
+        "trainingId": "4",
+        "goal": 12,
+        "quantity": 3
+      },
+      {
+        "trainingId": "2",
+        "goal": 6,
+        "quantity": 3
+      }
+    ]
+  }
+]

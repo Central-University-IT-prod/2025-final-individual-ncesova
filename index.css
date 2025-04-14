@@ -1,0 +1,54 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer base {
+  :root {
+    --background: #fafdfc;
+    --foreground: #191c1c;
+    --card: #fafdfc;
+    --card-foreground: #191c1c;
+    --popover: #fafdfc;
+    --popover-foreground: #191c1c;
+    --primary: #006a6a;
+    --primary-foreground: #ffffff;
+    --secondary: #4a6363;
+    --secondary-foreground: #191c1c;
+    --muted: #dae5e4;
+    --muted-foreground: #3f4948;
+    --accent: #eff1f0;
+    --accent-foreground: #2d3131;
+    --destructive: #ba1a1a;
+    --destructive-foreground: #ffffff;
+    --border: #dae5e4;
+    --input: #dae5e4;
+    --ring: #6ff7f7;
+    --radius: 0.5rem;
+    --easy: #a3e635;
+    --medium: #fbbf24;
+    --hard: #f87171;
+  }
+}
+
+@font-face {
+  font-family: "Inter";
+  src: url("/fonts/Inter-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-display: swap;
+}
+
+@layer base {
+  html {
+    font-family: "Inter", system-ui, sans-serif;
+    min-height: 100dvh;
+  }
+
+  div#app {
+    min-height: 100dvh;
+  }
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+}

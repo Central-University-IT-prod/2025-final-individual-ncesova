@@ -1,0 +1,268 @@
+[
+  {
+    "id": "1",
+    "name": "Приседания",
+    "description": "Простое упражнение на ноги",
+    "instruction": ["Сядьте до полусогнутых колен", "Встаньте"],
+    "coverUrl": "https://plus.unsplash.com/premium_photo-1666736569066-1b51689fac70?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "videoUrl": "/videos/basic_squats.mp4",
+    "difficulty": "easy",
+    "equipment": ["Ничего"],
+    "trains": ["Ноги", "Ягодицы"],
+    "goalType": "Повторения",
+    "liked": false
+  },
+  {
+    "id": "2",
+    "name": "Отжимания с выпрямлением рук",
+    "description": "Модифицированные отжимания с дополнительным движением",
+    "instruction": [
+      "Примите упор лёжа",
+      "Опуститесь, сгибая руки",
+      "Поднимитесь, выпрямляя руки",
+      "Поочередно выпрямляйте руку в сторону"
+    ],
+    "coverUrl": "https://images.unsplash.com/photo-1598971457999-ca4ef48a9a71?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "videoUrl": "/videos/pushup_with_arm_raise.mp4",
+    "difficulty": "hard",
+    "equipment": ["Ничего"],
+    "trains": ["Руки", "Спина"],
+    "goalType": "Повторения",
+    "liked": false
+  },
+  {
+    "id": "3",
+    "name": "Подтягивание колена к груди",
+    "description": "Упражнение для растяжки и разминки",
+    "instruction": [
+      "Лягте на спину",
+      "Подтяните колено к груди",
+      "Задержите положение",
+      "Вернитесь в исходное положение"
+    ],
+    "coverUrl": "https://images.unsplash.com/photo-1566241142559-40e1dab266c6?q=80&w=2070&auto=format&fit=crop",
+    "videoUrl": "/videos/knee_to_chest_stretch.mp4",
+    "difficulty": "easy",
+    "equipment": ["Коврик"],
+    "trains": ["Ноги", "Спина"],
+    "goalType": "Время",
+    "liked": false
+  },
+  {
+    "id": "4",
+    "name": "Разведение рук",
+    "description": "Упражнение для развития плечевого пояса",
+    "instruction": [
+      "Встаньте прямо",
+      "Поднимите руки в стороны до уровня плеч",
+      "Медленно опустите руки"
+    ],
+    "coverUrl": "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?q=80&w=2070&auto=format&fit=crop",
+    "videoUrl": "/videos/dumbbell_lateral_raise.mp4",
+    "difficulty": "easy",
+    "equipment": ["Гантели"],
+    "trains": ["Руки", "Спина"],
+    "goalType": "Повторения",
+    "liked": false
+  },
+  {
+    "id": "5",
+    "name": "Махи гирей",
+    "description": "Комплексное упражнение для всего тела",
+    "instruction": [
+      "Возьмите гирю двумя руками",
+      "Слегка согните колени",
+      "Сделайте мах гирей между ног",
+      "Выпрямляясь, поднимите гирю до уровня плеч"
+    ],
+    "coverUrl": "https://images.unsplash.com/photo-1517963879433-6ad2b056d712?q=80&w=2070&auto=format&fit=crop",
+    "videoUrl": "/videos/kettlebell_swing.mp4",
+    "difficulty": "hard",
+    "equipment": ["Гиря"],
+    "trains": ["Ноги", "Спина", "Ягодицы"],
+    "goalType": "Повторения",
+    "liked": false
+  },
+  {
+    "id": "6",
+    "name": "Велосипед",
+    "description": "Упражнение для пресса с имитацией езды на велосипеде",
+    "instruction": [
+      "Лягте на спину",
+      "Поднимите ноги и согните колени",
+      "Выполняйте поочередные движения ногами, имитируя кручение педалей",
+      "Противоположным локтем тянитесь к поднятому колену"
+    ],
+    "coverUrl": "https://images.unsplash.com/photo-1601422407692-ec4eeec1d9b3?q=80&w=2070&auto=format&fit=crop",
+    "videoUrl": "/videos/bicycle.mp4",
+    "difficulty": "medium",
+    "equipment": ["Коврик"],
+    "trains": ["Пресс"],
+    "goalType": "Повторения",
+    "liked": false
+  },
+  {
+    "id": "7",
+    "name": "Бокс",
+    "description": "Кардио упражнение с элементами бокса",
+    "instruction": [
+      "Примите боевую стойку",
+      "Выполняйте поочередные удары руками",
+      "Держите защиту, возвращая руки к лицу",
+      "Слегка перемещайтесь на ногах"
+    ],
+    "coverUrl": "https://images.unsplash.com/photo-1549719386-74dfcbf7dbed?q=80&w=2070&auto=format&fit=crop",
+    "videoUrl": "/videos/boxing.mp4",
+    "difficulty": "medium",
+    "equipment": ["Ничего"],
+    "trains": ["Руки"],
+    "goalType": "Время",
+    "liked": false
+  },
+  {
+    "id": "8",
+    "name": "Берпи",
+    "description": "Комплексное упражнение для всего тела",
+    "instruction": [
+      "Встаньте прямо",
+      "Примите упор присев",
+      "Выпрыгните ногами назад в планку",
+      "Сделайте отжимание",
+      "Подпрыгните ногами к рукам",
+      "Выпрыгните вверх с хлопком над головой"
+    ],
+    "coverUrl": "https://images.unsplash.com/photo-1599058917765-a780eda07a3e?q=80&w=2069&auto=format&fit=crop",
+    "videoUrl": "/videos/burpee.mp4",
+    "difficulty": "hard",
+    "equipment": ["Ничего"],
+    "trains": ["Ноги", "Руки", "Пресс"],
+    "goalType": "Повторения",
+    "liked": false
+  },
+  {
+    "id": "9",
+    "name": "Жим гантелей лежа",
+    "description": "Базовое упражнение для развития грудных мышц",
+    "instruction": [
+      "Лягте на скамью",
+      "Возьмите гантели на вытянутые руки над грудью",
+      "Опустите гантели к груди",
+      "Выжмите гантели вверх"
+    ],
+    "coverUrl": "https://images.unsplash.com/photo-1534368420009-621bfab424a8?q=80&w=2070&auto=format&fit=crop",
+    "videoUrl": "/videos/dumbbell_bench_press.mp4",
+    "difficulty": "medium",
+    "equipment": ["Гантели", "Скамья"],
+    "trains": ["Руки", "Спина"],
+    "goalType": "Повторения",
+    "liked": false
+  },
+  {
+    "id": "10",
+    "name": "Прыжки с места",
+    "description": "Взрывное упражнение для ног",
+    "instruction": [
+      "Встаньте прямо",
+      "Слегка присядьте",
+      "Выпрыгните вперед как можно дальше",
+      "Приземлитесь на обе ноги"
+    ],
+    "coverUrl": "https://images.unsplash.com/photo-1434596922112-19c563067271?q=80&w=2070&auto=format&fit=crop",
+    "videoUrl": "/videos/from_jumps.mp4",
+    "difficulty": "medium",
+    "equipment": ["Ничего"],
+    "trains": ["Ноги"],
+    "goalType": "Повторения",
+    "liked": false
+  },
+  {
+    "id": "11",
+    "name": "Выпады",
+    "description": "Упражнение для ног с акцентом на квадрицепсы",
+    "instruction": [
+      "Встаньте прямо",
+      "Сделайте шаг вперед",
+      "Опуститесь, сгибая оба колена",
+      "Вернитесь в исходное положение"
+    ],
+    "coverUrl": "https://images.unsplash.com/photo-1434608519344-49d77a699e1d?q=80&w=2070&auto=format&fit=crop",
+    "videoUrl": "/videos/lunges.mp4",
+    "difficulty": "medium",
+    "equipment": ["Ничего"],
+    "trains": ["Ноги", "Ягодицы"],
+    "goalType": "Повторения",
+    "liked": false
+  },
+  {
+    "id": "12",
+    "name": "Скалолаз",
+    "description": "Динамическое упражнение для пресса и координации",
+    "instruction": [
+      "Примите положение планки",
+      "Поочередно подтягивайте колени к груди",
+      "Держите спину прямой",
+      "Двигайтесь в среднем темпе"
+    ],
+    "coverUrl": "https://plus.unsplash.com/premium_photo-1672352100050-65cb2ee4d818?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "videoUrl": "/videos/mountaineer.mp4",
+    "difficulty": "medium",
+    "equipment": ["Ничего"],
+    "trains": ["Пресс", "Ноги"],
+    "goalType": "Время",
+    "liked": false
+  },
+  {
+    "id": "13",
+    "name": "Приставные шаги",
+    "description": "Упражнение для ног с боковым перемещением",
+    "instruction": [
+      "Встаньте прямо",
+      "Сделайте широкий шаг в сторону",
+      "Приставьте вторую ногу",
+      "Коснитесь пола рукой при каждом шаге"
+    ],
+    "coverUrl": "https://images.unsplash.com/photo-1434608519344-49d77a699e1d?q=80&w=2070&auto=format&fit=crop",
+    "videoUrl": "/videos/side_step_with_touch.mp4",
+    "difficulty": "easy",
+    "equipment": ["Ничего"],
+    "trains": ["Ноги"],
+    "goalType": "Повторения",
+    "liked": false
+  },
+  {
+    "id": "14",
+    "name": "Прыжковые приседания",
+    "description": "Интенсивное кардио упражнение",
+    "instruction": [
+      "Встаньте прямо",
+      "Выполните присед",
+      "Мощно оттолкнитесь и выпрыгните вверх",
+      "Приземлитесь в присед"
+    ],
+    "coverUrl": "https://images.unsplash.com/photo-1434608519344-49d77a699e1d?q=80&w=2070&auto=format&fit=crop",
+    "videoUrl": "/videos/squat_jumping.mp4",
+    "difficulty": "hard",
+    "equipment": ["Ничего"],
+    "trains": ["Ноги", "Ягодицы"],
+    "goalType": "Повторения",
+    "liked": false
+  },
+  {
+    "id": "15",
+    "name": "Разгибание рук на трицепс",
+    "description": "Изолированное упражнение для трицепса",
+    "instruction": [
+      "Возьмите гантель двумя руками и поднимите над головой",
+      "Согните руки, опуская гантель за голову",
+      "Разогните руки, возвращая гантель в исходное положение",
+      "Держите локти близко к голове"
+    ],
+    "coverUrl": "https://images.unsplash.com/photo-1434608519344-49d77a699e1d?q=80&w=2070&auto=format&fit=crop",
+    "videoUrl": "/videos/triceps_press.mp4",
+    "difficulty": "medium",
+    "equipment": ["Гантели"],
+    "trains": ["Руки"],
+    "goalType": "Повторения",
+    "liked": false
+  }
+]
